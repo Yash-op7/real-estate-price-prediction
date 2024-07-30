@@ -9,3 +9,9 @@ This is the dataset: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house
 
 This is the training d‸ataset, I will use supervised learning to predict the price variable which is the target variabel based on the input features which are area_type, availibility, location, size, society, area, bath and balcony.
 
+### Side self-note: Jupyter Keyboard shortcuts for Mac
+
+First enter Command Mode by pressing `Esc` then:
+- To insert a cell above the current cell: press `A`
+- To insert a cell below the current cell: press `B`
+- To delete the current cell: press `X`
