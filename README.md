@@ -15,3 +15,4 @@ First enter Command Mode by pressing `Esc` then:
 - To insert a cell above the current cell: press `A`
 - To insert a cell below the current cell: press `B`
 - To delete the current cell: press `X`
+- To undo press: `Z`
